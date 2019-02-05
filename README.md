@@ -1,3 +1,4 @@
+[![Legenda](https://www.hdsentinel.com/hds_bg.jpg)](https://www.hdsentinel.com/index.php)
 # HDDTest  
 Automated HDD test via terminal
 
