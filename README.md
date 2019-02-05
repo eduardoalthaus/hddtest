@@ -5,10 +5,10 @@ Automated HDD test via terminal
 `sudo apt install git`  
 
 **Clone this repo**  
-`git clone https://github.com/eduardoalthaus/hddtest`  
+`git clone https://github.com/eduardoalthaus/hddtest && cd hddtest`  
 
-**Enter directory**  
-`cd /hddtest`  
+**Change permission**  
+`sudo chmod +x Install.sh`  
 
 **Execute as sudo the install file**  
 `sudo ./Install.sh`
