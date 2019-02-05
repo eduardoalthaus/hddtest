@@ -18,7 +18,7 @@ Use this utility to check the condition of your HDD, any result that is not equa
 `git clone https://github.com/eduardoalthaus/hddtest && cd hddtest`  
 
 **Change permission**  
-`sudo chmod +x Install.sh`  
+`sudo chmod +x Run.sh`  
 
 **Execute as sudo the install file**  
-`sudo ./Install.sh`
+`sudo ./Run.sh`
