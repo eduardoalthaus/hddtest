@@ -12,4 +12,4 @@ HDD with any defect, "bad sectors" or any physical damage, will leave the user's
 Use this utility to check the condition of your HDD, any result that is not equal to 100%, be aware that you need to replace your disk ASAP.  
 
 **Install (Ubuntu / Debian)**  
-`sudo apt install git && git clone https://github.com/eduardoalthaus/hddtest && cd hddtest && sudo chmod +x Run.sh && sudo ./Run.sh`  
+`sudo apt install git && sudo apt install gzip && git clone https://github.com/eduardoalthaus/hddtest && cd hddtest && sudo chmod +x run.sh && sudo ./run.sh`  
