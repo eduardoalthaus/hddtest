@@ -1,4 +1,9 @@
 [![Legenda](https://www.hdsentinel.com/hds_bg.jpg)](https://www.hdsentinel.com/index.php)
+![issues](https://img.shields.io/github/issues/eduardoalthaus/hddtest.svg)
+![forks](https://img.shields.io/github/forks/eduardoalthaus/hddtest.svg)
+![stars](https://img.shields.io/github/stars/eduardoalthaus/hddtest.svg)
+![license](https://img.shields.io/github/license/eduardoalthaus/hddtest.svg)
+
 # HDDTest  
 Automated HDD test via terminal
 
